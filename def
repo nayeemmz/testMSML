@@ -1,3 +1,8 @@
 test file for our repo
 Added a new line to def in master 
 added new line in the branch
+<<<<<<< HEAD
+=======
+>>>>>>> new_development
++++++++++++++++++
+>>>>>>> refs/remotes/origin/main
