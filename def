@@ -1,2 +1,6 @@
 test file for our repo
+<<<<<<< HEAD
 Added a new line to def in master 
+=======
+added new line in the branch
+>>>>>>> new_development
